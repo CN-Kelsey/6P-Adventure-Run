@@ -1,0 +1,44 @@
+body {
+    font-family: 'Yusei Magic', sans-serif;
+    justify-content: center;
+}
+
+.intro{
+    display:flex;
+    justify-content: center;
+    font-size: 25px;
+    padding:10px;
+}
+
+.button {
+    display:flex;
+    justify-content: center;
+}
+
+img {
+    width: 500px;
+}
+
+.banana {
+    width: 200px;
+}
+
+.water {
+    width: 200px;
+}
+
+
+.step2 {
+    display:flex;
+    justify-content: center;
+}
+
+.step3 {
+    display:flex;
+    justify-content: center;
+}
+
+.buttons {
+    display:flex;
+    justify-content: center;
+}
