@@ -41,4 +41,11 @@ img {
 .buttons {
     display:flex;
     justify-content: center;
+    margin: 5px;
+    padding: 5px;    
+}
+
+.keep-running {
+    display:flex;
+    justify-content: center;
 }
