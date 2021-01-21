@@ -30,6 +30,8 @@ $(".keep-running").click(function() {
     $(".cyclists").hide();
     $(".step3").hide();
     $("body").css("background-color", "red");
+    $("h1").hide();
+    $(".louiseintro").hide();
 
 });
 
